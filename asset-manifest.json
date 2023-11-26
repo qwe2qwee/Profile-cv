@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Profile-cv/static/css/main.d0901235.css",
+    "main.js": "/Profile-cv/static/js/main.339d66f1.js",
+    "static/js/726.9581fb07.chunk.js": "/Profile-cv/static/js/726.9581fb07.chunk.js",
+    "static/media/about04.png": "/Profile-cv/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/profile.png": "/Profile-cv/static/media/profile.f4bbd3911f01befa0641.png",
+    "static/media/about02.png": "/Profile-cv/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/Profile-cv/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Profile-cv/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Profile-cv/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/Hossin_Ramadan (1).pdf": "/Profile-cv/static/media/Hossin_Ramadan (1).24c3ff8a503efb4e92ee.pdf",
+    "static/media/about03.png": "/Profile-cv/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/Profile-cv/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/Profile-cv/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/Profile-cv/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/snapcode.png": "/Profile-cv/static/media/snapcode.6098b40febb4ea8d6b0b.png",
+    "static/media/adidas.png": "/Profile-cv/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/email.png": "/Profile-cv/static/media/email.fdb9ea5424fce4e425f9.png",
+    "static/media/bolt.png": "/Profile-cv/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/Profile-cv/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Profile-cv/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Profile-cv/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Profile-cv/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Profile-cv/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/Profile-cv/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/Profile-cv/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/figma.png": "/Profile-cv/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Profile-cv/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Profile-cv/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/Profile-cv/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/Profile-cv/index.html",
+    "static/media/circle.svg": "/Profile-cv/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.d0901235.css.map": "/Profile-cv/static/css/main.d0901235.css.map",
+    "main.339d66f1.js.map": "/Profile-cv/static/js/main.339d66f1.js.map",
+    "726.9581fb07.chunk.js.map": "/Profile-cv/static/js/726.9581fb07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0901235.css",
+    "static/js/main.339d66f1.js"
+  ]
+}
