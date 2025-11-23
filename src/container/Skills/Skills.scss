@@ -9,11 +9,20 @@
   margin-top: 3rem;
 
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+
+  justify-content: center; /* يجعل العناصر في المنتصف */
+  align-items: center;
+  /* يبقيهم من الأعلى */
+
+  margin-left: auto; /* لموازنة الـ width */
+  margin-right: auto; /* يجعل العنصر بالكامل في الوسط */
 
   @media screen and (max-width: 900px) {
     width: 100%;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 }
 
@@ -21,8 +30,8 @@
   flex: 1;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
 
   margin-right: 5rem;
 
@@ -32,7 +41,6 @@
     align-items: center;
   }
 }
-
 .app__skills-item {
   flex-direction: column;
   text-align: center;
